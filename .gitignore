@@ -1,4 +1,5 @@
 *.iml
+ignorar.txt
 .gradle
 /local.properties
 /.idea/workspace.xml
