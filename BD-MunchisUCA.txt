@@ -1,0 +1,44 @@
+Modelo de la BD: 
+
+========================= OPCIÓN 1 (Charles) =========================
+lugar*
+  -id_lugar
+  -latitud
+  -longitud
+  -descripcion
+  -horaApertura
+  -horaCierre
+  -dirección
+  -telefono
+  -rating
+  
+menu
+  -id_menu
+  -id_place
+  -descripcion
+  -precio
+  
+  ========================= OPCIÓN 2 (Charles) =========================
+  
+lugar*
+  -id_lugar
+  -latitud
+  -longitud
+  -descripcion
+  -horaApertura
+  -horaCierre
+  -dirección
+  -telefono
+  -rating
+  
+comida
+  -id_comida
+  -id_lugar
+  -descripcion
+  -precio  
+  
+bebida
+  -id_bebida
+  -id_lugar
+  -descripcion
+  -precio
